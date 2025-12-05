@@ -1,6 +1,18 @@
 # EHR Data Analysis & CDISC Implementation Project
 
-## Overview
+Electronic Health Records Data Analysis for Hospital Admissions and Patient Data.
+
+A comprehensive introduction to Electronic Health Record (EHR) data analysis using Python. This project demonstrates a typical workflow, from simulating complex healthcare data to performing exploratory data analysis (EDA), implementing CDISC standards, and building machine learning models to predict critical patient outcomes.
+
+## Why EHR Data Analysis?
+Electronic Health Records (EHRs) are a rich source of information that can revolutionize healthcare. By analyzing EHR data, we can:
+1. Identify patterns in diseases and treatments.
+2. Predict patient risks (e.g., hospital readmission, mortality).
+3. Optimize hospital operations and resource allocation.
+4. Support clinical decision-making.
+5. Advance medical research and public health initiatives.
+
+## Technical Implementation Overview
 This project demonstrates an end-to-end workflow for analyzing Electronic Health Record (EHR) data in a pharmaceutical/clinical research context. It showcases expertise in:
 - **Data Generation**: Simulating realistic patient data.
 - **CDISC Standards**: Implementing SDTM (Study Data Tabulation Model) and AdaM (Analysis Data Model) standards.
